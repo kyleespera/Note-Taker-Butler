@@ -1,0 +1,24 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyleespera/Note-Taker-Butler.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/kyleespera/Note-Taker-Butler/issues"
+  },
+  "homepage": "https://github.com/kyleespera/Note-Taker-Butler#readme"
+}
