@@ -23,16 +23,10 @@ Dive in and start managing your mental clutter more effectively with the Note Ta
 ## Screenshot
 
 ![Note Taker Application](https://raw.githubusercontent.com/username/repo/branch/assets/notetakerscreenshot-1.jpeg)
-<<<<<<< HEAD
 
 
 ![Note Taker Application](https://raw.githubusercontent.com/username/repo/branch/assets/notetaker-1.jpeg)
 
-=======
-
-
-![Note Taker Application](https://raw.githubusercontent.com/username/repo/branch/assets/notetaker-1.jpeg)
->>>>>>> e055d0433c512672009d9fcb6b8e0ead3e699d57
 
 
 ## Installation
