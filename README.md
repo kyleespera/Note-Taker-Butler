@@ -35,7 +35,7 @@ To run the Note Taker application locally, follow these steps:
 2. Install Node.js if you haven't already.
 3. In the root directory of the project, run `npm install` or `pnpm install` to install the required dependencies.
 4. Once the installation is complete, run `node server.js` or `npm start` to start the application.
-5. Open your web browser and navigate to `http://localhost:3001` to access the Note Taker.
+5. Open your web browser and navigate to `http://localhost:3000` to access the Note Taker.
 
 ## Usage
 
